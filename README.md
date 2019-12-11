@@ -62,3 +62,13 @@ IDEA中，对于文件夹的要求非常高，必须文件夹的类型正确才�
 注：Intellij IDEA上新建项目或模块没有Spring Initializr选项解决办法
 
 ![image-20191210170602151](README.assets/image-20191210170602151.png)
+
+![image-20191211002009915](README.assets/image-20191211002009915.png)
+
+![image-20191211002437599](README.assets/image-20191211002437599.png)![image-20191211002731746](README.assets/image-20191211002731746.png)![image-20191211002815867](README.assets/image-20191211002815867.png)![image-20191211003104758](README.assets/image-20191211003104758.png)![image-20191211003705465](README.assets/image-20191211003705465.png)![image-20191211003840105](README.assets/image-20191211003840105.png)
+
+
+
+
+
+https://www.bilibili.com/video/av38657363?p=7
